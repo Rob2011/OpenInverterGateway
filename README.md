@@ -18,7 +18,7 @@ Firmware replacement for Growatt ShineWiFi-S (serial), ShineWiFi-X (USB) or cust
 * TLS support for ESP32
 * Debugging via Web and Telnet
 * Power limiting (allows zero export)
-* New: added ModbusTCP support on port 502
+* ModbusTCP support on port 502
 
 ## Screenshot
 
