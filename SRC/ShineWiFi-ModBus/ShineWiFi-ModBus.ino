@@ -11,7 +11,7 @@
 #include <WiFiManager.h>
 #include <StreamUtils.h>
 
-// new
+// added for Modbus TCP
 #if MODBUS_TCP_SUPPORTED == 1
 #include "ModbusTCP.h"
 #endif
